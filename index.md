@@ -63,6 +63,11 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 * Brushless motor control & power management
 * FPGA / SoC hardware development
 
+### 🧠 Artificial Intelligence & Machine Learning
+* **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras, NumPy, Scikit-learn
+* **Computer Vision & Perception:** Real-time object detection (YOLO), image processing (OpenCV), semantic segmentation, and automated vision-based navigation
+* **Reinforcement Learning:** Deep Q-Networks (DQN), Actor-Critic models (PPO/DDPG)
+
 ### 🛡️ Systems Engineering & Safety
 * Model-Based Systems Engineering (MBSE) & SysML
 * Familiarity with DO-178C / DO-331 development and verification concepts
