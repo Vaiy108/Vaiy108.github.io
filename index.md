@@ -14,22 +14,23 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 
 ### ✈️ Guidance, Navigation, and Control (GNC), Avionics & UAVs
 * **Capabilities:** UAV Flight Controls, embedded avionics, Flight Control Implementation, 6-DOF dynamics, guidance laws, optimal control, and flight simulations.
-* 🛠️ **Featured Project:** [Interceptor GNC 6-DOF Optimal Control Framework](https://github.com)
-* 🛠️ **Featured Project:** [UAV Flight Controls Portfolio](https://github.com)
+* 🛠️ **Featured Project:** [Interceptor GNC 6-DOF Optimal Control Framework](https://github.com/Vaiy108/interceptor-gnc-6dof-optimal-control)
+* 🛠️ **Featured Project:** [Lifting-Body GNC: 6-DOF Simulation of the NASA HL-20](https://github.com/Vaiy108/lifting-body-gnc)
+* 🛠️ **Featured Project:** [UAV Flight Controls Portfolio](https://github.com/Vaiy108/UAV-flight-controls-portfolio)
 * 🛠️ **Featured Project:** [Autonomous uav Avionics Control Stack](https://github.com/Vaiy108/autonomous-uav-avionics-control-stack)
-* 🛠️ **Featured Project:** [Embedded Avionics Sensor Platform]([https://github.com](https://github.com/Vaiy108/embedded-avionics-software-stack))
-* 🛠️ **Featured Project:** [PX4 Avionics Sensor Monitor]([https://github.com](https://github.com/Vaiy108/px4-avionics-sensor-monitor))
+* 🛠️ **Featured Project:** [Embedded Avionics Sensor Platform](https://github.com/Vaiy108/embedded-avionics-software-stack)
+* 🛠️ **Featured Project:** [PX4 Avionics Sensor Monitor](https://github.com/Vaiy108/px4-avionics-sensor-monitor)
 
-### 💻 Embedded Systems & FPGAs
+### 💻 Embedded Systems & FPGAs (FPGA Interfacing and Signal Processing)
 * **Capabilities:** Production C/C++ firmware, bare-metal microcontrollers (STM32), Interfaces (SPI, UART, I2C, Ethernet) and digital logic design.
-* 🛠️ **Featured Project:** [STM32 CAN Telemetry Node](https://github.com)
-* 🛠️ **Featured Project:** [FPGA Projects Portfolio](https://github.com)
-* 🛠️ **Featured Project:** [Intel FPGA DE10 Embedded DSP & Measurement System]([https://github.com](https://github.com/Vaiy108/intel-fpga-de10-dsp-measurement))
+* 🛠️ **Featured Project:** [STM32 CAN Telemetry Node](https://github.com/Vaiy108/stm32-can-telemetry-node)
+* 🛠️ **Featured Project:** [FPGA Projects Portfolio](https://github.com/Vaiy108/FPGA_Projects)
+* 🛠️ **Featured Project:** [Intel FPGA DE10 Embedded DSP & Measurement System](https://github.com/Vaiy108/intel-fpga-de10-dsp-measurement)
 
-### 🧠 Robotics, Sensor Fusion & Perception
+### 🧠 Robotics, Signal Processing, Sensor Fusion & Perception
 * **Capabilities:** Multi-object tracking, real-time sensor fusion (Kalman Filtering), and Edge AI.
-* 🛠️ **Featured Project:** [Multi-Object Radar Tracking](https://github.com)
-* 🛠️ **Featured Project:** [Sensor Fusion Portfolio](https://github.com)
+* 🛠️ **Featured Project:** [Multi-Object Radar Tracking](https://github.com/Vaiy108/multi-object-radar-tracking)
+* 🛠️ **Featured Project:** [Sensor Fusion Portfolio](https://github.com/Vaiy108/sensor-fusion-portfolio)
 
 ### 🔋 Structural Energy Storage
 * **Capabilities:** Materials science for multifunctional composites and structural sodium-ion batteries optimizing flight efficiency.
