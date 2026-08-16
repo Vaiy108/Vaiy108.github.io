@@ -31,10 +31,15 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 * 🛠️ **Featured Project:** [FPGA Projects Portfolio](https://github.com/Vaiy108/FPGA_Projects)
 * 🛠️ **Featured Project:** [Intel FPGA DE10 Embedded DSP & Measurement System](https://github.com/Vaiy108/intel-fpga-de10-dsp-measurement)
 
-### 🧠 Robotics, Signal Processing, Sensor Fusion & Perception
+### 🧠 Robotics, Sensor Fusion & Perception
 * **Capabilities:** Multi-object tracking, real-time sensor fusion (Kalman Filtering), and Edge AI.
 * 🛠️ **Featured Project:** [Multi-Object Radar Tracking](https://github.com/Vaiy108/multi-object-radar-tracking)
 * 🛠️ **Featured Project:** [Sensor Fusion Portfolio](https://github.com/Vaiy108/sensor-fusion-portfolio)
+
+### 📡 Digital Signal Processing (DSP) & Radar Pipelines
+* **Capabilities:** Real-time array processing, FFT architectures, digital filtering, and high-performance radar waveform analysis.
+* 🛠️ **Featured Project:** [S32R45 Radar Processing Pipeline (SiL)](https://github.com/Vaiy108/s32r45-radar-pipeline-sil)
+* 🛠️ **Featured Project:** [FPGA-Based Real-Time Spectrum Analyzer](https://github.com/Vaiy108/fpga-fft-based-real-time-spectrum-analyzer)
 
 ### 🔋 Structural Energy Storage
 * **Capabilities:** Materials science for multifunctional composites and structural sodium-ion batteries optimizing flight efficiency.
@@ -62,6 +67,10 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 * STM32 microcontrollers, real-time control loops, PC/104, QNX RTOS
 * Brushless motor control & power management
 * FPGA / SoC hardware development
+
+### 📡 Digital Signal Processing (DSP)
+* **Radar Processing:** Range-Doppler processing, FMCW waveform analysis, clutter rejection, and target detection pipelines deployed on safety-critical automotive/aerospace processors (NXP S32R45) via Software-in-the-Loop (SiL) verification.
+* **Hardware-Accelerated DSP:** High-throughput pipelined FFT algorithms, digital filters (FIR/IIR), and windowing techniques implemented directly in VHDL for real-time FPGA spectrum analysis.
 
 ### 🧠 Artificial Intelligence & Machine Learning
 * **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras, NumPy, Scikit-learn
