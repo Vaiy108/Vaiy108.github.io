@@ -48,7 +48,7 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 
 ## 🌐 Connect & Track My Work
 
-* 👔 **Professional Network:** [LinkedIn Profile](https://linkedin.com)
+* 👔 **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/vasan-iyer/)
 * 💻 **Code & Repositories:** [GitHub Profile](https://github.com/Vaiy108)
 * 📝 **Academic Citations:** [Google Scholar](https://scholar.google.com/citations?user=VX8vT_wAAAAJ&hl=en&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Vasan-Iyer) | [ORCID iD](https://orcid.org/0000-0001-8868-6710)
-* 📱 **Updates & Research Notes:** [@iyer_vasan on X (Twitter)](https://x.com)
+* 📱 **Updates & Research Notes:** [@iyer_vasan on X (Twitter)](https://x.com/iyer_vasan)
