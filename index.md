@@ -74,11 +74,12 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 * V-model development cycle, system integration, and verification
 * Hardware/Software design for safety-critical systems
 
-### 🔧 Tools & Environments
+### 🔧Engineering Tools & Environments
 * **Simulation & Math:** MATLAB / Simulink
 * **Hardware & EDA:** Altium Designer, KiCAD, LTSpice, Intel Quartus / Vivado
 * **CAD & CAE:** ANSYS, CATIA V5
 * **Build Systems:** CMake
+* **AI & Software IDEs:** PyTorch, TensorFlow, OpenCV, Jupyter Notebook, Google Colab, CUDA, Git
 
 ---
 
