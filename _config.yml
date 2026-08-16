@@ -3,4 +3,11 @@ plugins:
   - jekyll-remote-theme
 title: Vasan Iyer
 description: Aerospace, Embedded Systems & AI Engineer
+show_downloads: false
+google_analytics:
+github:
+  is_project_page: false
+  repository_url: https://github.com
+
+
 
