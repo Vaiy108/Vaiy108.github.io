@@ -16,7 +16,7 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 * **Capabilities:** UAV Flight Controls, embedded avionics, Flight Control Implementation, 6-DOF dynamics, guidance laws, optimal control, and flight simulations.
 * 🛠️ **Featured Project:** [Interceptor GNC 6-DOF Optimal Control Framework](https://github.com)
 * 🛠️ **Featured Project:** [UAV Flight Controls Portfolio](https://github.com)
-* 🛠️ **Featured Project:** [Autonomous uav Avionics Control Stack]([https://github.com](https://github.com/Vaiy108/autonomous-uav-avionics-control-stack))
+* 🛠️ **Featured Project:** [Autonomous uav Avionics Control Stack](https://github.com/Vaiy108/autonomous-uav-avionics-control-stack)
 * 🛠️ **Featured Project:** [Embedded Avionics Sensor Platform]([https://github.com](https://github.com/Vaiy108/embedded-avionics-software-stack))
 * 🛠️ **Featured Project:** [PX4 Avionics Sensor Monitor]([https://github.com](https://github.com/Vaiy108/px4-avionics-sensor-monitor))
 
