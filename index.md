@@ -13,6 +13,7 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
 ## 🧬 Core Engineering Pillars & Repositories
 
 ### 🛸 Avionics, Autonomous Systems & UAV Development
+* **Capabilities:** UAV Flight Controls, embedded avionics, PX4, Gazebo, ROS2, Sw architecture 
 * 🛠️ **Featured Project:** [Embedded Avionics Sensor Platform](https://github.com/Vaiy108/embedded-avionics-software-stack)
 * 🛠️ **Featured Project:** [UAV Flight Controls Portfolio](https://github.com/Vaiy108/UAV-flight-controls-portfolio)
 * 🛠️ **Featured Project:** [Autonomous uav Avionics Control Stack](https://github.com/Vaiy108/autonomous-uav-avionics-control-stack)
@@ -20,7 +21,7 @@ Welcome to my portfolio. I engineer systems where advanced hardware physics meet
   
 
 ### ✈️ Guidance, Navigation, and Control (GNC)
-* **Capabilities:** UAV Flight Controls, embedded avionics, Flight Control Implementation, 6-DOF dynamics, guidance laws, optimal control, and flight simulations.
+* **Capabilities:** Flight Control Implementation, 6-DOF dynamics, guidance laws, optimal control, and flight simulations.
 * 🛠️ **Featured Project:** [Interceptor GNC 6-DOF Optimal Control Framework](https://github.com/Vaiy108/interceptor-gnc-6dof-optimal-control)
 * 🛠️ **Featured Project:** [Lifting-Body GNC: 6-DOF Simulation of the NASA HL-20](https://github.com/Vaiy108/lifting-body-gnc)
 
