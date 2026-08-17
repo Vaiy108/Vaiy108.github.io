@@ -7,6 +7,7 @@ title: Vasan Iyer - Aerospace, Materials, Embedded Systems & AI Engineer
 ### 🛰️ | Embedded Software | Flight Control | FPGA | Power Electronics | AI Engineer
 
 Welcome to my portfolio. I engineer systems where advanced hardware physics meets real-time intelligent software, translating complex mathematical control models into deterministic, physical production code running on bare-metal systems. 
+
 I enjoy developing embedded software and intelligent aerospace systems, flight control software, real-time software, sensor fusion, FPGA design, and power electronics.
 
 This portfolio highlights production-style engineering projects spanning autonomous UAV systems, embedded avionics, power electronics, digital hardware, and artificial intelligence.
